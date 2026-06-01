@@ -1,4 +1,4 @@
-https://github.com/myfriendqaz/LiveTVCollector/blob/main/LiveTV/India/LiveTV.m3u
+https://raw.githubusercontent.com/myfriendqaz/LiveTVCollector/refs/heads/main/LiveTV/India/LiveTV.m3u
 https://iptv-org.github.io/iptv/languages/hin.m3u
 https://raw.githubusercontent.com/amazeyourself/m3u/refs/heads/main/dishd2h.m3u
 https://raw.githubusercontent.com/amazeyourself/m3u/refs/heads/main/distrotv.m3u
@@ -7,5 +7,5 @@ https://raw.githubusercontent.com/JulioCesarXY/EPG-LG-Channels/refs/heads/main/l
 https://raw.githubusercontent.com/durjoyrozario/Iptv.m3u/refs/heads/main/channels%20(2).m3u
 https://raw.githubusercontent.com/live-iptv/m3u_validator/refs/heads/main/movies_m3u.m3u
 https://raw.githubusercontent.com/myfriendqaz/LiveTVCollector/refs/heads/main/Movies/Bollywood/Movies.m3u
-https://github.com/myfriendqaz/LiveTVCollector/blob/main/Movies/Hollywood/Movies.m3u
+https://raw.githubusercontent.com/myfriendqaz/LiveTVCollector/refs/heads/main/Movies/Hollywood/Movies.m3u
 
