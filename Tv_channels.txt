@@ -8,4 +8,4 @@ https://raw.githubusercontent.com/durjoyrozario/Iptv.m3u/refs/heads/main/channel
 https://raw.githubusercontent.com/live-iptv/m3u_validator/refs/heads/main/movies_m3u.m3u
 https://raw.githubusercontent.com/myfriendqaz/LiveTVCollector/refs/heads/main/Movies/Bollywood/Movies.m3u
 https://raw.githubusercontent.com/myfriendqaz/LiveTVCollector/refs/heads/main/Movies/Hollywood/Movies.m3u
-
+https://raw.githubusercontent.com/satyadevchauhan/DugguTV/refs/heads/main/streams/channels.m3u
