@@ -9,3 +9,5 @@ https://raw.githubusercontent.com/live-iptv/m3u_validator/refs/heads/main/movies
 https://raw.githubusercontent.com/myfriendqaz/LiveTVCollector/refs/heads/main/Movies/Bollywood/Movies.m3u
 https://raw.githubusercontent.com/myfriendqaz/LiveTVCollector/refs/heads/main/Movies/Hollywood/Movies.m3u
 https://raw.githubusercontent.com/satyadevchauhan/DugguTV/refs/heads/main/streams/channels.m3u
+https://raw.githubusercontent.com/mazinkaiser65/m3u-playlists/refs/heads/main/playlists/samsungtvplus_in.m3u
+https://raw.githubusercontent.com/FunctionError/PiratesTvPlus/main/PiratesPlus.m3u
