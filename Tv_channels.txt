@@ -11,3 +11,10 @@ https://raw.githubusercontent.com/myfriendqaz/LiveTVCollector/refs/heads/main/Mo
 https://raw.githubusercontent.com/satyadevchauhan/DugguTV/refs/heads/main/streams/channels.m3u
 https://raw.githubusercontent.com/mazinkaiser65/m3u-playlists/refs/heads/main/playlists/samsungtvplus_in.m3u
 https://raw.githubusercontent.com/FunctionError/PiratesTvPlus/main/PiratesPlus.m3u
+https://raw.githubusercontent.com/alex4528y/m3u/refs/heads/main/z5.m3u
+https://raw.githubusercontent.com/alex4528y/m3u/refs/heads/main/suntv.m3u
+https://raw.githubusercontent.com/alex4528y/m3u/refs/heads/main/lgtv.m3u
+https://raw.githubusercontent.com/alex4528y/m3u/refs/heads/main/waves.m3u
+https://raw.githubusercontent.com/alex4528y/m3u/refs/heads/main/dishtv.m3u
+https://raw.githubusercontent.com/alex4528y/m3u/refs/heads/main/jcinema.m3u
+https://raw.githubusercontent.com/mooncrown04/m3u/refs/heads/main/birlesik.m3u
